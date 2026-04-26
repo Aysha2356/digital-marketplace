@@ -1,0 +1,17 @@
+# Tomcat
+apache-tomcat/
+xampp/
+
+# Build
+*.class
+WEB-INF/classes/
+
+# Uploads (IMPORTANT)
+uploads/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db

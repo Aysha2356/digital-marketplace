@@ -1,0 +1,11 @@
+{
+"tomcat.server.path": "C:\\Program Files\\Apache Software Foundation\\Tomcat 9.0",
+"java.project.sourcePaths": [
+    "src",
+    "WebContent\\jsp"
+],
+"java.project.referencedLibraries": [
+    "WebContent\\WEB-INF\\lib\\mysql-connector-j-9.6.0.jar",
+    "WebContent\\WEB-INF\\lib\\servlet-api.jar"
+]
+}
